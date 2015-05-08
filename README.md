@@ -33,6 +33,6 @@ Usage
 * Advanced widget usage
 ```php
 echo Disqus::widget([
-    'settings' => ['shortname' => 'DISQUS_SHORTNAME', 'identifier'=>'DISQUS_IDENTIFIER', 'url'=>'URL'],
+    'options' => ['shortname' => 'DISQUS_SHORTNAME', 'identifier'=>'DISQUS_IDENTIFIER', 'url'=>'URL'],
 ]);
 ```
