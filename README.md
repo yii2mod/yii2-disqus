@@ -2,7 +2,7 @@ DISQUS Widget for Yii2
 ==========
 - This widget embeds the Disqus comments plugin into your website.
 
-Installation   
+Installation    
 ------------
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
