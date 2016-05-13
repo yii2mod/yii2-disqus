@@ -1,6 +1,8 @@
 DISQUS Widget for Yii2
 ==========
-- This widget embeds the Disqus comments plugin into your website.
+This widget embeds the Disqus comments plugin into your website.
+
+[![Latest Stable Version](https://poser.pugx.org/yii2mod/yii2-disqus/v/stable)](https://packagist.org/packages/yii2mod/yii2-disqus) [![Total Downloads](https://poser.pugx.org/yii2mod/yii2-disqus/downloads)](https://packagist.org/packages/yii2mod/yii2-disqus) [![License](https://poser.pugx.org/yii2mod/yii2-disqus/license)](https://packagist.org/packages/yii2mod/yii2-disqus)
 
 Installation    
 ------------
