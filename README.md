@@ -27,14 +27,14 @@ Usage
 ------------
 * Once the extension is installed, simply add widget to your page as follows:
 ```php
- echo Disqus::widget([
+ echo \yii2mod\disqus\Disqus::widget([
       'options' => ['shortname' => 'DISQUS_SHORTNAME']
   ]);
 ```
 
 * Advanced widget usage
 ```php
-echo Disqus::widget([
+echo \yii2mod\disqus\Disqus::widget([
     'options' => ['shortname' => 'DISQUS_SHORTNAME', 'identifier'=>'DISQUS_IDENTIFIER', 'url'=>'URL'],
 ]);
 ```
